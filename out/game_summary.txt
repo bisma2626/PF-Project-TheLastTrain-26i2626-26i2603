@@ -1,0 +1,23 @@
+========== THE LAST TRAIN ==========
+Result: VICTORY
+Final Score: 480
+Remaining Energy: 12
+Remaining Time: 3
+
+OBJECTIVES:
+[X] Collect Master Key
+[X] Find Clue 4
+[X] Find Clue 2
+[X] Find Clue 7
+[X] Unlock Cabinet
+[X] Collect Train Key
+[ ] Collect Fuse
+[ ] Install Fuse
+[ ] Collect Lift Pass
+[ ] Activate Lift 2
+[X] Rescue Passenger
+[X] Collect Cat Carrier
+[X] Secure Cat
+[X] Prepare Train
+
+Session audit: 10 of 14 objectives completed.
